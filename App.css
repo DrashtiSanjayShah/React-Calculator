@@ -1,0 +1,24 @@
+body {
+  min-height: 120vh;
+  background-color: grey;
+}
+
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.calc-wrapper {
+  background-color: black;
+  margin-top: 50px;  
+  border: 6px solid white;
+  width: 460px;
+  height: auto;
+  border-radius: 20px;
+}
+
+.row{
+  display: flex;
+}
+
